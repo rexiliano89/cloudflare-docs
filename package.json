@@ -44,7 +44,7 @@
     "tippy.js": "^6.3.7",
     "typescript": "^5.5.2",
     "wrangler": "^3.71.0",
-    "yaml": "^2.4.5"
+    "yaml": "^2.5.0"
   },
   "devDependencies": {
     "@types/node": "^20.14.12",
