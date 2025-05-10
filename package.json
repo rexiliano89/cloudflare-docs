@@ -30,7 +30,7 @@
     "instantsearch.js": "^4.73.4",
     "littlefoot": "^4.1.1",
     "marked": "^13.0.1",
-    "mathjs": "^13.0.3",
+    "mathjs": "^14.4.0",
     "mermaid": "^10.9.1",
     "node-html-parser": "^6.1.13",
     "rehype-autolink-headings": "^7.1.0",
